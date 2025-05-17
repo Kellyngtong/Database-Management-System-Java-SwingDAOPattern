@@ -1,0 +1,33 @@
+# Archivos de compilación
+*.class
+
+# Directorios de compilación
+/bin/
+/build/
+/out/
+
+# Configuración de IDEs
+*.iml
+.idea/
+*.vscode/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Dependencias descargadas por Maven o Gradle
+/.mvn/
+/target/
+/.gradle/
+/build/
+
+# Archivos temporales
+*.tmp
+*.swp
+*.swo
+
+# Archivos de configuración específicos del sistema
+*.properties
